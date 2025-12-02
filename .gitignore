@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+typechain/
+cache/
+artifacts/
+.env
+.env.local
+.DS_Store
