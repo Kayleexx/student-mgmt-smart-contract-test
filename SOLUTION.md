@@ -97,6 +97,10 @@ Returns boolean indicating if an address is registered.
 - No reentrancy vectors
 - No external calls
 
+## Demo test
+
+<img width="995" height="935" alt="image" src="https://github.com/user-attachments/assets/56c8fc34-5855-4022-b406-9802bd56a136" />
+
 
 ---
 
