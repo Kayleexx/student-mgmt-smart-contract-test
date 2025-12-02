@@ -4,8 +4,8 @@
 Implemented a gas-optimized user registration smart contract in Solidity 0.8.20.
 
 ## Contract and Tests Location
-`backend/contracts/test.sol`
-`backend/test/UserRegistration.test.js`
+- `backend/contracts/test.sol`
+- `backend/test/UserRegistration.test.js`
 
 ## Features Implemented
 - Single registration per address
